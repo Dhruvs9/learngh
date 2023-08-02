@@ -1,0 +1,18 @@
+new game dev vs old game dev
+
+creating a unity project name- 
+new devs writing a name and deleting 3-4 times
+old devs writing a big title;
+
+coding
+new devs looking for tutorials online 
+old devs constantly coding for 8 hours
+
+searching
+new devs searching in chatgpt
+old devs looking in unity docs
+
+building the game
+new dev facing error
+old devs completing build
+
